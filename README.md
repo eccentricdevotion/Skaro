@@ -1,15 +1,15 @@
-#Skaro
+# Skaro
 
 A world specific Resource Pack for the TARDIS plugin. It contains custom water, lava, sky, clouds and fog colours. Requires [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953) or [MCPatcher](https://bitbucket.org/prupe/mcpatcher/wiki/Home).
 
-![image](https://dl.dropboxusercontent.com/u/53758864/skaro_rp.jpg)
+![image](https://www.dropbox.com/s/si9wap07v0bfn5x/skaro_rp.jpg?dl=1)
 
 
-##Installation
+## Installation
 
 Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
 
-##Alternate installation and keeping up-to-date
+## Alternate installation and keeping up-to-date
 
 As the TARDIS resource packs are shared in GitHub repositories. If you install a GitHub client, you can easily keep your resource packs current by syncing with any changes that are pushed to the repository.
 

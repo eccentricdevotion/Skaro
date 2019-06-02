@@ -2,8 +2,7 @@
 
 A world specific Resource Pack for the TARDIS plugin. It contains custom water, lava, sky, clouds and fog colours. Requires [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953) or [MCPatcher](https://bitbucket.org/prupe/mcpatcher/wiki/Home).
 
-![image](https://www.dropbox.com/s/si9wap07v0bfn5x/skaro_rp.jpg?dl=1)
-
+![image](https://dl.dropboxusercontent.com/s/si9wap07v0bfn5x/skaro_rp.jpg?dl=1)
 
 ## Installation
 

@@ -21,7 +21,7 @@ Here's a quick run down on doing that:
 3. In your web browser, navigate to the TARDIS resource pack repositories
    * Skaro (You are here)
    * [Gallifrey](https://github.com/eccentricdevotion/Gallifrey)
-   * [TARDIS-Resource-Pack](https://github.com/eccentricdevotion/TARDIS-MCP)
+   * [TARDIS-Resource-Pack](https://github.com/eccentricdevotion/TARDIS-Resource-Pack)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
    * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack) - you only need this if you _don't_ have the TARDIS-Resource-Pack...
 4. Click the green __Clone or download__ button, then the __Open in Desktop__ link
